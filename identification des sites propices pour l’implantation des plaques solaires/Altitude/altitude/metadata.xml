@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="fr"><Esri><CreaDate>20240408</CreaDate><CreaTime>02350800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20240408" Time="023508">RasterCalculator "("Extract_tif1" &gt; 1100)  &amp; ("Extract_tif1" &lt; 1700)" "C:\Users\21261\Desktop\Master\S2\SIG\Mini Projet\Altitude\altitude"</Process></lineage></DataProperties></Esri></metadata>
